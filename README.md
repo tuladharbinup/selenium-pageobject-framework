@@ -4,7 +4,7 @@ selenium framework with page object model
 
 <h1 style="color: #5e9ca0;">simple Selenium Framework utilizing page object model</h1>
 <h2 style="color: #2e6c80;">How to setup and run:</h2>
-<p>This framework uses&nbsp;selenium web driver 3.X, maven, apache POI, testNG and&nbsp;geckodriverv0.14.0 for firefox.</p>
+<p>This framework uses&nbsp;Java 1.8, selenium web driver 3.X, maven, apache POI, testNG and&nbsp;geckodriverv0.14.0 for firefox.</p>
 <p>If the current version of geckodriver does not support your firefox, please replace the provided driver with your executable version of geckodriver in the following path:</p>
 <p>geekoDriverPath = src\\resources\\geckodriverv0.14.0.exe</p>
 <p>by opening configuration file located at&nbsp;/src/com/binupjewelry/config/GlobalConfig.properties</p>
