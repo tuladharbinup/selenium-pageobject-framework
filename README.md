@@ -20,3 +20,4 @@ selenium framework with page object model
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<h4>Demo Site:&nbsp;https://binup-jewelry.offersupermarket.com/</h4>
