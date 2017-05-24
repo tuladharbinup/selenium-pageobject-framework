@@ -15,9 +15,8 @@ selenium framework with page object model
 <li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" />Reading Test data from Excel</li>
 <li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/02-html-clean.png" alt="html cleaner" width="45" />Taking snapshot</li>
 <li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/03-docs-to-html.png" alt="Word to html" width="45" />Global Configuration</li>
-<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" />Steping stone to create a bigger enterprise level framework</li>
-</ol>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/05-gibberish.png" alt="gibberish" width="45" />Steping stone to create a bigger enterprise level framework</li></ol>
+
 <h4>Demo Site:&nbsp;https://binup-jewelry.offersupermarket.com/</h4>
+
+<p><img src="https://cloud.githubusercontent.com/assets/10625539/26386581/67f4a074-3ffc-11e7-9dc4-37c712cfb6aa.png" alt="structure" width="1090" height="574" /></p>
